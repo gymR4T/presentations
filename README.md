@@ -1,6 +1,6 @@
 # Presentations
-
-Repository to store presentations from different conferences
+## Repository for Presentations
 
 ### BSidesNOVA 2022: Backdooring Electron Applications
 ### CrowdStrike Atlanta Offsite 2022: Imposters Among Crewmates: Leveraging ETW for Red Team Purposes
+### RVASec 2023: Context Matters: Tailoring Tradecraft to the Operational Environment
